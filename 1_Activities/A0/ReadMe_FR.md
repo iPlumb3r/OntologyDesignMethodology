@@ -1,7 +1,7 @@
 Définir la finalité de l’application
 ==
   
-La méthodologie utilisé consiste à contruire la "carte des motivations" qui est constitué par 3 types d'élément qui pris ensemble permettent de se faire une bonne image des tenants et aboutissants d'une projet :
+La méthodologie utilisé consiste à contruire la "carte des motivations" qui est constituée par 3 types d'élément qui pris dans leur ensemble permettent de se faire une bonne image des tenants et aboutissants d'un projet :
 * Les "finalités métiers"
 * Les "facteurs influançants"
 * Les "inititives métiers" 
