@@ -3,99 +3,30 @@
 
 Prefered Label
 -
-<table>
-    <thead>
-        <tr>
-            <th>English</th>
-            <th>French</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td>Bla bla</td>
-            <td>Bla bla</td>
-        </tr>
-    </tbody>
-</table>
+* Bla bla
 
 Alternative Label(s)
 -
-<table>
-    <thead>
-        <tr>
-            <th>English</th>
-            <th>French</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td>Bla bla</td>
-            <td>Bla bla</td>
-        </tr>
-    </tbody>
-</table>
+* Bla bla
+* Bla bla
+* Bla bla
 
 Description
 -
-<table>
-    <thead>
-        <tr>
-            <th>English</th>
-            <th>French</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td>Bla bla</td>
-            <td>Bla bla</td>
-        </tr>
-    </tbody>
-</table>
+Bla bla
 
 Comment(s)
 -
-<table>
-    <thead>
-        <tr>
-            <th>English</th>
-            <th>French</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td>Bla bla</td>
-            <td>Bla bla</td>
-        </tr>
-    </tbody>
-</table>
+Bla bla
+Bla bla
+Bla bla
 
 Individuals
 -
+* Example_1
+* Example_2
+* Example_3
+* Example_4
+* Example_5
 
-
-Some examples : 
-<table>
-    <thead>
-        <tr>
-            <th>Individual</th>
-            <th>Type</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td></td>
-            <td></td>
-        </tr>
-        <tr>
-            <td></td>
-            <td></td>
-        </tr>
-        <tr>
-            <td></td>
-            <td></td>
-        </tr>
-    </tbody>
-</table>
-
-Some more examples : <a href="https://www.topincs.com/iPlumb3rSandBox/.index?tt=1219">Samples in the SandBox EBR</a>
 
