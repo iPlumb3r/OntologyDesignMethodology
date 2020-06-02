@@ -4,6 +4,6 @@
 Rôles impliqués
 -
 Activité métier réalisée par :
-* <finalCustomer> (=> eux-même, <serviceProvider> ou <hostingCompany>)
-* <serviceProvider> (=> eux-même)
-* <hostedConsultant> (=> <hostingCompany>)
+* #finalCustomer (=> eux-même, #serviceProvider ou #hostingCompany)
+* #serviceProvider (=> eux-même)
+* #hostedConsultant (=> #hostingCompany)
