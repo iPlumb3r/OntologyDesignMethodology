@@ -13,7 +13,7 @@ Alternative Label(s)
 
 Description
 -
-Bla bla
+Bla bla.  
 
 Comment(s)
 -
