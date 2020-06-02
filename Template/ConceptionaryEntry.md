@@ -17,9 +17,9 @@ Bla bla
 
 Comment(s)
 -
-Bla bla
-Bla bla
-Bla bla
+Bla bla.   
+Bla bla.  
+Bla bla.  
 
 Individuals
 -
