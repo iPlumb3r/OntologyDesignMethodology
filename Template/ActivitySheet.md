@@ -44,3 +44,13 @@ Le système doit pouvoir alerter l’utilisateur sur des critères à définir q
 
 Cas des #finalCustomer ou des #serviceProvider : Par défaut, l’#Organization est défini comme étant une #subsidiary.
 S’il s’agit d’une #headquarter alors il faut le déclarer explicitement et le système doit alors permettre de sélectionner les #subsidiary existantes ou d’en définir de nouvelle.
+
+How ?
+==
+Comment(s)
+-
+Voir s’il existe un service “open data” pour faciliter la saisie des <Organization> dans la plateforme (Infogreffe ou autre …)
+
+Question(s)
+-
+
