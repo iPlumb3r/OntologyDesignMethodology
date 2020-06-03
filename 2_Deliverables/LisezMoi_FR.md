@@ -12,12 +12,17 @@
     </thead>
     <tbody>
         <tr>
-            <td>Carte des motivations</td>
+            <td>Carte des Motivations</td>
             <td>A2</td>
             <td>A3</td>
         </tr>
         <tr>
-            <td>Processus métier</td>
+            <td>Cas d'usage Métier</td>
+            <td>A2</td>
+            <td>A3</td>
+        </tr>
+        <tr>
+            <td>Processus Métier</td>
             <td>A2</td>
             <td>A3</td>
         </tr>
@@ -27,12 +32,12 @@
             <td>A3</td>
         </tr>
         <tr>
-            <td>Modèle Sémantique des Concept Métiers</td>
+            <td>Modèle Sémantique des Concepts Métiers</td>
             <td>A2</td>
             <td>A3</td>
         </tr>
         <tr>
-            <td>Liste des règles métiers</td>
+            <td>Liste des Règles métiers</td>
             <td>A2</td>
             <td>A3</td>
         </tr>
