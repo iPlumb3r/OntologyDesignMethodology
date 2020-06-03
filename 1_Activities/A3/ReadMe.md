@@ -1,75 +1,24 @@
 # Activité "A3" : Mettre en relation les concepts métiers 
 
 ## But
-Il s'agit connecter les __Sujets Métiers__ prealablement définis dans le Conceptionary (et éventuellement certains __Objets Métiers__ clefs) dans un modèle global ...
+Il s'agit connecter les __Sujets Métiers__ prealablement définis dans le Conceptionary (et éventuellement certains __Objets Métiers__ clefs) dans un modèle global ...   
 ... autrement dit de spécifier le modèle sémantique des concepts métiers.
 
 ### Pourquoi le faire ?
-La 1ere raison est relative à l'étape précédente qui permet surtout d'identifer les __Objets Métiers__ qui ne sont en fait que des représentations des "veritables" __Sujets Métiers__ qui structurent le __domaine de conaissances__ sous-jacent à l'application informatique.
-La 2nd raison est relative à l'étape suivante qu nécessite de mettre en relation des choses qui on été préalablement parfaitement définies. Sans quoi, le mise en relation de choses qui n'ont pas de sens n'aura pas de sens non plus !
-
+Car un __domaine de connaissance__ est autant représenté par les __Concepts__ qui le constituent que par les __Relations__ entre ces concepts.
 
 ## Mantra : 
 Le meileur conseil pour cette activité est sans doute le suivant : 
 > "When the territory and the map disagree, believe the territory" - Swiss Army Manual 
 
 ## Livrable
-Le __Conceptionary__ est non seulement le livrable de cette activité, ...   
-... Mais c'est également LE livrable de cette approche méthodologique car il constitue un "pivot" de la démarche !   
+Le __Modèle Sématique des Concepts Métiers__ est l'unique livrable de cette activité. Il comprends essentiellement les __Sujets Métiers__ du domaine de conaissances ; et potentiellement aussi des __Objets Métiers__.   
+Il est généralement constitué d'un ou plusieurs graphes.
  
 ## Notions Clefs
-Les notions clefs pour cette activité sont résumées dans le tableau ci-après :
+Les notions clefs pour cette activité sont les suivantes : 
+* __Concept Métier__ : Ensemble des __Sujets Métiers__ et des __Objet Métiers__
+* __Sujet Métier__ : "Véritable" centre d'intérêt du domaine de connaissances
+* __Objet Métier__ : Représentation - généralement documentaire (mais pas que) - d'un __Sujet Métier__
 
-<table>
-    <thead>
-        <tr>
-            <th>Entrée de Conceptionary</th>
-            <th>Cardinalité (Min-Max)</th>
-            <th>Commentaire</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td>ID de Sujet</td>
-            <td>1-1</td>
-            <td>Peut-être un nombre ou une chaîne alpha-numerique aléatoire ; ou bien un mot ou une expression en "EnglishCamelCase"</td>
-        </tr>
-          <tr>
-            <td>============</td>
-            <td>Et pour chaque Language</td>
-            <td>============</td>
-        </tr>
-        <tr>
-            <td>Label préféré</td>
-            <td>1-1</td>
-            <td></td>
-        </tr>
-        <tr>
-            <td>Label alternatif</td>
-            <td>0-N</td>
-            <td></td>
-        </tr>
-        <tr>
-            <td>Description</td>
-            <td>1-1</td>
-            <td>The description must refers to others concepts (via the Concept ID) in order to prepare the work for building the future ontology</td>
-        </tr>
-        <tr>
-            <td>Commentaire</td>
-            <td>0-N</td>
-            <td></td>
-        </tr>
-        <tr>
-            <td>Exemples</td>
-            <td>3-7</td>
-            <td>Quelques individus/instances représentatives du sujet/concept</td>
-        </tr>
-    </tbody>
-</table>
-
-## Notes
-Chaque entrée du __Conceptionary__ est  est bien un Concept (et NON un Terme)
-> En ce sens on peut dire qu'un __Conceptionary__ est un __Dictionaire__ inversé !
-
-Cf <a href="https://www.semanticarts.com/the-importance-of-distinguishing-between-terms-and-concepts/">The Importance of Distinguishing between Terms and Concepts</a> 
 
