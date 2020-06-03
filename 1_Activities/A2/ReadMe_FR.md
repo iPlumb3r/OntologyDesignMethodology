@@ -1,11 +1,12 @@
 # Activité #A2 : Identifier et définir les sujets métiers manipulés par l'application
 
 ## L'Activité Métier
-Il s'agit de définir précisement de quoi "parle" cette application 
+Il s'agit d'identifier et définir précisement les sujets qui devront être manipulé par l'application cible ...
+... autrement dit de déterminer "de quoi parle" le domaine de connaissances quelle doit supporter.
 
 ## Le Mantra : 
 Le meileur conseil pour cette activité est sans doute le suivant : 
-> Définir - autant que possible - les activités en terme de __finalité__ (et non de __moyen__)
+> S'attacher à recherche "vrai" __sujets__ du domaine de connaissances et non les __objets__ qui les réprésentent !
 
 ## Le Livrable
 Le __Conceptionary__ est non seulement le livrable de cette activité, ...   
