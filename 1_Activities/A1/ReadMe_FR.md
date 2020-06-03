@@ -11,7 +11,7 @@ Le meileur conseil pour cette activité est sans doute le suivant :
 ## Le Livrable
 Il s'agit d'un ensemble de fiche d'activité métiers qui prisent globalement permettent de constituer une cartographie de "Qui réalise quelle activité dans quel but"
  
-## Les Concepts Clefs
+## Les Notions Clefs
 Le concept central pour cette activité est la notion d'__Activité Métier__ qui  : 
 * est réalisé par 1 (ou plusieurs) __Rôle(s) Métier(s)__
 * consommes 1 (ou plusieurs) __Objet(s) Métier(s)__
