@@ -41,6 +41,11 @@
             <td>Principes contraignant et/ou controlant le modèle sémantique</td>
             <td></td>
         </tr>
+        <tr>
+            <td>Ontology</td>
+            <td>Représentation formelle du modèle smémantique (et des règles métiers) selon un paradigem ontologique particulier</td>
+            <td>Ex de paradigme : OWL, Topic Maps, Grakn, ...</td>
+        </tr>
     </tbody>
 </table>
 
