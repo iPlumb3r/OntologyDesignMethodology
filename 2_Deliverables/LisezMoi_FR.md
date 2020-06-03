@@ -1,4 +1,4 @@
-# Les livrables à produire
+# Livrables à produire
 
 ## Tableau
 
