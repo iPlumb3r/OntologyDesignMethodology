@@ -22,8 +22,8 @@ L'ensemble de ces concepts sont décrit dans les articles suivants :
 * <a href="https://www.linkedin.com/pulse/7-id%C3%A9es-re%C3%A7ues-%C3%A0-propos-des-processus-m%C3%A9tiers-bernard-chabot/">7 idées reçues à propos des Processus Métiers ...</a>
 
 ## Le Modèle Sémantique
-Les __Activités Métiers__ s'inscrivent dans le contexte du modèle sémantique suivant : 
-![SemanticModel](https://github.com/iPlumb3r/BizApp-Spec-Methodo/blob/CTZNMuv/_Images/BusinessActivity_SM.png)
+Les __Activités Métiers__ s'inscrivent dans le contexte du modèle sémantique suivant :    
+![SemanticModel](https://github.com/iPlumb3r/BizApp-Spec-Methodo/blob/CTZNMuv/_Images/BusinessActivity_SM.jpg)
 
 
 
