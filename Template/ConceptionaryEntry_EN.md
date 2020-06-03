@@ -1,28 +1,22 @@
-#ConceptID
-==
+# @ConceptID
 
-Prefered Label
--
+## Prefered Label
 * Bla bla
 
-Alternative Label(s)
--
+## Alternative Label(s)
 * Bla bla
 * Bla bla
 * Bla bla
 
-Description
--
+## Description
 Bla bla.  
 
-Comment(s)
--
+## Comment(s)
 Bla bla.   
 Bla bla.  
 Bla bla.  
 
-Individuals
--
+## Individuals
 * Example_1
 * Example_2
 * Example_3
