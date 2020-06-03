@@ -6,7 +6,7 @@ Il s'agit de définir la finalité de l'application, son "Pourquoi ?", sa raison
 
 ## Le Mantra : 
 Le meileur conseil pour cette activité est sans doute incarné par l'adage qui veut que :
-> "Il n'y pas de vent favorable pour le marin qui ne sait ou il va !"
+> "Il n'y a pas de vent favorable pour le marin qui ne sait ou il va !"
 
 ## Le Livrable
 La méthodologie utilisé consiste à contruire la __"carte des motivations__" qui est constituée par 3 types d'éléments qui pris dans leur ensemble permettent de se faire une bonne image des tenants et aboutissants d'un projet ...
