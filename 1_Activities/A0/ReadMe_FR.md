@@ -1,7 +1,7 @@
 # Activité #A0 : Définir la finalité de l’application
 
 ## L'Activité Métier
-Il s'agit de définir la finalité de l'application, son "Pourquoi ?" / sa raison d'être, ...   
+Il s'agit de définir la finalité de l'application, son "Pourquoi ?", sa raison d'être, ...   
 ... autrement dit "à qui" et "à quoi" elle va servir et pour quel bénéfice.
 
 ## Le Mantra : 
