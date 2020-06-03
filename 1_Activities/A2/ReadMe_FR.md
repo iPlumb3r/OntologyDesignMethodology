@@ -1,7 +1,7 @@
 # Activité #A2 : Identifier et définir les sujets métiers manipulés par l'application
 
 ## L'Activité Métier
-Il s'agit d'identifier et définir précisement les sujets qui devront être manipulé par l'application cible ...
+Il s'agit d'identifier et définir précisement les sujets qui devront être manipulé par l'application cible ...   
 ... autrement dit de déterminer "de quoi parle" le domaine de connaissances quelle doit supporter.
 
 ## Le Mantra : 
