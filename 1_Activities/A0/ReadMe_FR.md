@@ -4,9 +4,9 @@ Définir la finalité de l’application
 La méthodologie utilisé consiste à contruire la "carte des motivations" qui est constituée par 3 types d'éléments qui pris dans leur ensemble permettent de se faire une bonne image des tenants et aboutissants d'un projet :
 
 Ces types d'éléments sont les suivants
-* Les "finalités métiers"
-* Les "facteurs influançants"
-* Les "inititives métiers" 
+* Les __finalités métiers__
+* Les __facteurs influançants__
+* Les __inititives métiers__
   
 Finalités métiers
 -
@@ -22,6 +22,10 @@ Les __initiatives métiers__ sont les principes d'actions que l'on va mettre en 
 * atteindre une (ou plusieurs) __finalité(s) métier(s)__
 * contrer un (ou plusieurs) __facteur(s) influaçant(s)__ 
 
+
+Modèle Sméntique
+==
+A compléter ...
 
 Illustration
 -
