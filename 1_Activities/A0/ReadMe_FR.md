@@ -14,21 +14,19 @@ Ces types d'éléments sont les suivants :
 ### Finalités métiers :    
 Les __finalités métiers__ incarnent les différentes facettes de "là où" l'on veut aller ...
   
-__Facteurs influançants__ :   
+### Facteurs influançants :   
 Les __facteurs influançants__ représentent les caractéristiques de l'environnement contre lesquelles ont doit "lutter"
   
-__Initiatives métiers__ :   
+### Initiatives métiers :   
 Les __initiatives métiers__ sont les principes d'actions que l'on va mettre en place pour "à la fois" :
 * atteindre une (ou plusieurs) __finalité(s) métier(s)__
 * contrer un (ou plusieurs) __facteur(s) influaçant(s)__ 
 
 
-Le Modèle Sémantique
--
+## Le Modèle Sémantique
 ![SemanticModel](https://github.com/iPlumb3r/BizApp-Spec-Methodo/blob/CTZNMuv/_Images/MotivationMap_SM.png)
 
-Illustration "Analogique"
--
+## Illustration "Analogique"
 La meileure analogie est sans doute incarné par l'adage qui veut que :
 > "il n'y pas de vent favorable pour le marin qui ne sait ou il va !"
 
