@@ -14,7 +14,7 @@ La méthodologie utilisée consiste à contruire la __"carte des motivations__" 
 Ces types d'éléments (i.e. Concepts Clefs) sont les suivants :
 * Les __finalités métiers__
 * Les __facteurs influançants__
-* Les __inititives métiers__ 
+* Les __initiatives métiers__ 
  
 ## Les Concepts Clefs
 
