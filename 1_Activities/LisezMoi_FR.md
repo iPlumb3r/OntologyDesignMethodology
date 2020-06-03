@@ -23,7 +23,7 @@ Tableau :
         </tr>
         <tr>
             <td>A1</td>
-            <td>Définir le périmètre métier de l’application informatique</td>
+            <td>Définir le périmètre métier de l’application</td>
             <td>Si le périmètre métier n’est pas clairement défini, il sera impossible d’assurer efficacement la capture du besoin métier et de maîtriser les cycles de développement itératifs (risque de dérapage des coûts et des délais)</td>
             <td>En identifiant les activités métiers qui devront être supportées par l’application informatique. (=> Cartographie “Qui réalise quelle activité ?”)</td>
         </tr>
