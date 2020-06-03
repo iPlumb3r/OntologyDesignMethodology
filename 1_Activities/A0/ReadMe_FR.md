@@ -2,7 +2,7 @@
 
 ## But
 Il s'agit de définir la finalité de l'application, son "Pourquoi ?", sa raison d'être, ...   
-... autrement dit "à qui" et "à quoi" elle va servir et pour quel bénéfice.
+... autrement dit de préciser "à qui" et "à quoi" elle va servir et pour quel bénéfice.
 
 ### Pourquoi le faire ?
 Par ce que pour spécifier une application informatique, il est nécessaire de déterminer le modèle sémantique des concepts métiers (ou modèle métier) quelle va devoir manipuler ...
