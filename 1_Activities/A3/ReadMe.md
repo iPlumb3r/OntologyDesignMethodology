@@ -1,8 +1,8 @@
-# Activité "A3" : Mettre en relation les concepts métiers
+# Activité "A3" : Mettre en relation les concepts métiers 
 
 ## But
-Il s'agit d'identifier et définir précisement les sujets qui devront être manipulé par l'application cible ...   
-... autrement dit de déterminer "de quoi parle" le domaine de connaissances quelle doit supporter.
+Il s'agit connecter les __Sujets Métiers__ prealablement définis dans le Conceptionary (et éventuellement certains __Objets Métiers__ clefs) dans un modèle global ...
+... autrement dit de spécifier le modèle sémantique des concepts métiers.
 
 ### Pourquoi le faire ?
 La 1ere raison est relative à l'étape précédente qui permet surtout d'identifer les __Objets Métiers__ qui ne sont en fait que des représentations des "veritables" __Sujets Métiers__ qui structurent le __domaine de conaissances__ sous-jacent à l'application informatique.
