@@ -4,7 +4,7 @@
 ## Livrable
 La méthodologie utilisé consiste à contruire la __"carte des motivations__" qui est constituée par 3 types d'éléments qui pris dans leur ensemble permettent de se faire une bonne image des tenants et aboutissants d'un projet ...
 
-Ces types d'éléments sont les suivants :
+Ces types d'éléments (i.e. Concepts Clefs) sont les suivants :
 * Les __finalités métiers__
 * Les __facteurs influançants__
 * Les __inititives métiers__ 
