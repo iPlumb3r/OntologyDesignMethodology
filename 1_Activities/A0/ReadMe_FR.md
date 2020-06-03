@@ -1,14 +1,19 @@
 # Activité #A0 : Définir la finalité de l’application
 
-## L'Activité Métier
+## Objectif
 Il s'agit de définir la finalité de l'application, son "Pourquoi ?", sa raison d'être, ...   
 ... autrement dit "à qui" et "à quoi" elle va servir et pour quel bénéfice.
 
-## Le Mantra : 
+### Pourquoi le faire ?
+Par ce que pour spécifier une application informatique, il est nécessaire de déterminer le modèle sémantique des concepts métiers (ou modèle métier) quelle va devoir manipuler ...
+... et que fondementalement, un modèle métier ne fait sens qu’en regard de “ce à quoi il va servir”. 
+> Pour memo : "Essentially, all models are wrong , but some are useful" - Geoges Box
+
+## Mantra : 
 Le meileur conseil pour cette activité est sans doute incarné par l'adage qui veut que :
 > "Il n'y a pas de vent favorable pour le marin qui ne sait où il va !"
 
-## Le Livrable
+## Livrable
 Il s'agit de construire la __"carte des motivations__" qui est constituée par 3 types d'éléments qui pris dans leur ensemble permettent de se faire une bonne image des tenants et aboutissants d'un projet ...
 
 Ces types d'éléments (i.e. Concepts Clefs) sont les suivants :
@@ -16,7 +21,7 @@ Ces types d'éléments (i.e. Concepts Clefs) sont les suivants :
 * Les __facteurs influançants__
 * Les __initiatives métiers__ 
  
-## Les Notions Clefs
+## Notions Clefs
 
 ### Finalités métiers :    
 Les __finalités métiers__ incarnent les différentes facettes de "là où" l'on veut aller ...
@@ -30,7 +35,7 @@ Les __initiatives métiers__ sont les principes d'actions que l'on va mettre en 
 * contrer un (ou plusieurs) __facteur(s) influançant(s)__ 
 
 
-## Le Modèle Sémantique
+## Modèle Sémantique
 ![SemanticModel](https://github.com/iPlumb3r/BizApp-Spec-Methodo/blob/CTZNMuv/_Images/MotivationMap_SM.png)
 
 ## Illustration "Analogique"
