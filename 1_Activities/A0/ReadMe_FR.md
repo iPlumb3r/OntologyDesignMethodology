@@ -1,8 +1,8 @@
-Définir la finalité de l’application
+Activité #A0 : Définir la finalité de l’application
 ==
 
 Livrable
-==
+-
  
 La méthodologie utilisé consiste à contruire la __"carte des motivations__" qui est constituée par 3 types d'éléments qui pris dans leur ensemble permettent de se faire une bonne image des tenants et aboutissants d'un projet ...
 
@@ -12,29 +12,26 @@ Ces types d'éléments sont les suivants :
 * Les __inititives métiers__ 
  
 Les Concepts Clefs
-==
-
-Finalités métiers
 -
+
+__Finalités métiers__ : 
 Les __finalités métiers__ incarnent les différentes facettes de "là où" l'on veut aller ...
   
-Facteurs influançants
--
+__Facteurs influançants__ :
 Les __facteurs influançants__ représentent les caractéristiques de l'environnement contre lesquelles ont doit "lutter"
   
-Initiatives métiers
--
+__Initiatives métiers__ :
 Les __initiatives métiers__ sont les principes d'actions que l'on va mettre en place pour "à la fois" :
 * atteindre une (ou plusieurs) __finalité(s) métier(s)__
 * contrer un (ou plusieurs) __facteur(s) influaçant(s)__ 
 
 
 Le Modèle Sémantique
-==
+-
 ![SemanticModel](https://github.com/iPlumb3r/BizApp-Spec-Methodo/blob/CTZNMuv/_Images/MotivationMap_SM.png)
 
 Illustration "Analogique"
-==
+-
 La meileure analogie est sans doute incarné par l'adage qui veut que :
 > "il n'y pas de vent favorable pour le marin qui ne sait ou il va !"
 
