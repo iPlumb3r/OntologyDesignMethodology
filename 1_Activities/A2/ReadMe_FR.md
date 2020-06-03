@@ -1,4 +1,4 @@
-# Activité #A2 : Identifier et définir les sujets métiers manipulés par l'application
+# Activité "A2" : Identifier et définir les sujets métiers manipulés par l'application
 
 ## But
 Il s'agit d'identifier et définir précisement les sujets qui devront être manipulé par l'application cible ...   
