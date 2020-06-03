@@ -34,7 +34,7 @@ Tableau :
             <td>En construisant un glossaire métier dont chaque entrée incarne un sujet métier et comprend : 1 label préféré, 1 (ou plusieurs) label(s) alternatif(s), 1 définition, 1 commentaire et 3 à 5 exemples. (=> Glossaire onto-terminologique)</td>
         </tr>
         <tr>
-            <td>A3</td>
+            <td><a href="https://github.com/iPlumb3r/BizApp-Spec-Methodo/blob/CTZNMuv/1_Activities/A3/ReadMe_FR.md">A3</a></td>
             <td>Mettre en relation les concepts métiers via des relations sémantiques (c-à-d “porteuse de sens”)</td>
             <td>Car pour décrire un “territoire” métier, les relations entre concepts métiers sont tout aussi importantes (voire plus importantes ;-) que les concepts métiers eux-mêmes</td>
             <td>En construisant un modèle sémantique des concepts métiers pouvant être représenté par 1 ou plusieurs graphes. (=> Modèle sémantique des concepts métiers)</td>
