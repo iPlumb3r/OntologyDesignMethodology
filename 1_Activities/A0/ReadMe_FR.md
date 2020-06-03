@@ -1,7 +1,7 @@
 # Activité #A0 : Définir la finalité de l’application
 
 
-## Livrable
+## Le Livrable
 La méthodologie utilisé consiste à contruire la __"carte des motivations__" qui est constituée par 3 types d'éléments qui pris dans leur ensemble permettent de se faire une bonne image des tenants et aboutissants d'un projet ...
 
 Ces types d'éléments (i.e. Concepts Clefs) sont les suivants :
