@@ -22,7 +22,7 @@ Tableau :
             <td>En identifiant les finalités devant être atteintes par le modèle métier, les facteurs influançants et les inititives qui en découlent (=> Carte des motivations)</td>
         </tr>
         <tr>
-            <td>A1</td>
+            <td><a href="https://github.com/iPlumb3r/BizApp-Spec-Methodo/blob/CTZNMuv/1_Activities/A1/ReadMe_FR.md">A1</a></td>
             <td>Définir le périmètre métier de l’application</td>
             <td>Si le périmètre métier n’est pas clairement défini, il sera impossible d’assurer efficacement la capture du besoin métier et de maîtriser les cycles de développement itératifs (risque de dérapage des coûts et des délais)</td>
             <td>En identifiant les activités métiers qui devront être supportées par l’application informatique. (=> Cartographie “Qui réalise quelle activité ?”)</td>
