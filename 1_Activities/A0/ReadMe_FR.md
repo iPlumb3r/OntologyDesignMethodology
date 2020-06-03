@@ -1,6 +1,6 @@
 # Activité #A0 : Définir la finalité de l’application
 
-## Objectif
+## But
 Il s'agit de définir la finalité de l'application, son "Pourquoi ?", sa raison d'être, ...   
 ... autrement dit "à qui" et "à quoi" elle va servir et pour quel bénéfice.
 
