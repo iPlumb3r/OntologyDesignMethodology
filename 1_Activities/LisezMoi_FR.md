@@ -29,7 +29,7 @@ Tableau :
         </tr>
         <tr>
             <td>A2</td>
-            <td>Identifier et définir les concepts métiers qui devront être manipulés par l’application</td>
+            <td>Identifier et définir les sujets métiers qui devront être manipulés par l’application</td>
             <td>Si les concepts métiers ne sont pas clairement identifiés et définis, il sera impossible de savoir “de quoi on parle exactement” et la qualité de l’application ne pourra pas être au rendez-vous !</td>
             <td>En construisant un glossaire métier dont chaque entrée incarne un concept métier et comprend : 1 label préféré, 1 (ou plusieurs) label(s) alternatif(s), 1 définition, 1 commentaire et 3 à 5 exemples. (=> Glossaire onto-terminologique)</td>
         </tr>
