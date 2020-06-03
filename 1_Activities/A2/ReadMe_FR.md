@@ -55,15 +55,10 @@ Les notions clefs pour cette activité sont résumé dans le tableau ci-après :
         <tr>
             <td>Exemples</td>
             <td>3-7</td>
-            <td>Quelques individus/instancesreprésentative du sujet/concept</td>
+            <td>Quelques individus/instances représentatives du sujet/concept</td>
         </tr>
     </tbody>
 </table>
-
-
-## Le Modèle Sémantique
-Les __Activités Métiers__ s'inscrivent dans le contexte du modèle sémantique suivant :    
-![SemanticModel](https://github.com/iPlumb3r/BizApp-Spec-Methodo/blob/CTZNMuv/_Images/BusinessActivity_SM.jpg)
 
 
 
