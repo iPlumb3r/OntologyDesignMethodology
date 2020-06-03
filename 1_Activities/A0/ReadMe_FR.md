@@ -14,13 +14,13 @@ Ces types d'éléments sont les suivants :
 Les Concepts Clefs
 -
 
-__Finalités métiers__ : 
+__Finalités métiers__ :    
 Les __finalités métiers__ incarnent les différentes facettes de "là où" l'on veut aller ...
   
-__Facteurs influançants__ :
+__Facteurs influançants__ :   
 Les __facteurs influançants__ représentent les caractéristiques de l'environnement contre lesquelles ont doit "lutter"
   
-__Initiatives métiers__ :
+__Initiatives métiers__ :   
 Les __initiatives métiers__ sont les principes d'actions que l'on va mettre en place pour "à la fois" :
 * atteindre une (ou plusieurs) __finalité(s) métier(s)__
 * contrer un (ou plusieurs) __facteur(s) influaçant(s)__ 
