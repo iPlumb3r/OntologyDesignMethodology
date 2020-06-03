@@ -1,4 +1,4 @@
-# Activité #A0 : Définir la finalité de l’application
+# Activité "A0" : Définir la finalité de l’application
 
 ## But
 Il s'agit de définir la finalité de l'application, son "Pourquoi ?", sa raison d'être, ...   
