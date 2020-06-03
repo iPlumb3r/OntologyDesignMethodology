@@ -1,4 +1,4 @@
-# Activité #A1 : Définir le périmètre de l’application
+# Activité "A1" : Définir le périmètre de l’application
 
 ## But
 Il s'agit de définir le périmètre que va "embrasser" l'application et par conséquent la "surface" qu'elle va couvrir,  ...   
