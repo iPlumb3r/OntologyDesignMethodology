@@ -1,9 +1,7 @@
-Activité #A0 : Définir la finalité de l’application
-==
+# Activité #A0 : Définir la finalité de l’application
 
-Livrable
--
- 
+
+## Livrable
 La méthodologie utilisé consiste à contruire la __"carte des motivations__" qui est constituée par 3 types d'éléments qui pris dans leur ensemble permettent de se faire une bonne image des tenants et aboutissants d'un projet ...
 
 Ces types d'éléments sont les suivants :
@@ -11,10 +9,9 @@ Ces types d'éléments sont les suivants :
 * Les __facteurs influançants__
 * Les __inititives métiers__ 
  
-Les Concepts Clefs
--
+## Les Concepts Clefs
 
-__Finalités métiers__ :    
+### Finalités métiers :    
 Les __finalités métiers__ incarnent les différentes facettes de "là où" l'on veut aller ...
   
 __Facteurs influançants__ :   
