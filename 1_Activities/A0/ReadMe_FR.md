@@ -9,7 +9,7 @@ Le meileur conseil pour cette activité est sans doute incarné par l'adage qui 
 > "Il n'y a pas de vent favorable pour le marin qui ne sait où il va !"
 
 ## Le Livrable
-La méthodologie utilisée consiste à contruire la __"carte des motivations__" qui est constituée par 3 types d'éléments qui pris dans leur ensemble permettent de se faire une bonne image des tenants et aboutissants d'un projet ...
+Il s'agir de construire la __"carte des motivations__" qui est constituée par 3 types d'éléments qui pris dans leur ensemble permettent de se faire une bonne image des tenants et aboutissants d'un projet ...
 
 Ces types d'éléments (i.e. Concepts Clefs) sont les suivants :
 * Les __finalités métiers__
