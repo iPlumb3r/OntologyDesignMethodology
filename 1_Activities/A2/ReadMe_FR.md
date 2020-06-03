@@ -63,5 +63,9 @@ Les notions clefs pour cette activité sont résumées dans le tableau ci-après
     </tbody>
 </table>
 
+## Notes
+Chaque entrée du __Conceptionary__ est  est bien un Concept (et NON un Terme)
+> En ce sens on peut dire qu'un __Conceptionary__ est un __Dictionaire__ inversé !
 
+Cf <a href="https://www.semanticarts.com/the-importance-of-distinguishing-between-terms-and-concepts/">The Importance of Distinguishing between Terms and Concepts</a> 
 
