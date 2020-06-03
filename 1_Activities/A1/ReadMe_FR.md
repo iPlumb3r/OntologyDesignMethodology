@@ -1,7 +1,7 @@
 # Activité #A1 : Définir le périmètre de l’application
 
 ## L'Activité Métier
-Il s'agit de définir le périmètre que va "embrasser" l'application et par conséquent la "surface" qu'elle va couvrir,  ...
+Il s'agit de définir le périmètre que va "embrasser" l'application et par conséquent la "surface" qu'elle va couvrir,  ...   
 ... autrement dit sont "Quoi ?" métier, ce qu'elle va faire (indépendement de la manière de le faire)
 
 ## Le Mantra : 
