@@ -1,7 +1,8 @@
 # Activité #A0 : Définir la finalité de l’application
 
 ## L'Activité Métier
-Il s'agit de définir la finalité de l'application, autrement dit "à qui" et "à quoi" elle va servir et pour quel bénéfice.
+Il s'agit de définir la finalité de l'application, ...   
+... autrement dit "à qui" et "à quoi" elle va servir et pour quel bénéfice.
 
 ## Le Mantra : 
 La meileur pour cette activité est sans doute incarné par l'adage qui veut que :
