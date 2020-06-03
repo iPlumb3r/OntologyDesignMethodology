@@ -27,7 +27,7 @@ Les __facteurs influançants__ représentent les caractéristiques de l'environn
 ### Initiatives métiers :   
 Les __initiatives métiers__ sont les principes d'actions que l'on va mettre en place pour "à la fois" :
 * atteindre une (ou plusieurs) __finalité(s) métier(s)__
-* contrer un (ou plusieurs) __facteur(s) influaçant(s)__ 
+* contrer un (ou plusieurs) __facteur(s) influançant(s)__ 
 
 
 ## Le Modèle Sémantique
