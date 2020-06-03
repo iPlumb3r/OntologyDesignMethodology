@@ -11,8 +11,7 @@ La 2nd raison est relative à l'étape suivante qu nécessite de mettre en relat
 
 ## Mantra : 
 Le meileur conseil pour cette activité est sans doute le suivant : 
-> S'attacher à capturer les "vrais" __sujets__ du domaine de connaissances ...     
-... et non les __objets__ qui les réprésentent !
+> "When the territory and the map disagree, believe the territory" - Swiss Army Manual 
 
 ## Livrable
 Le __Conceptionary__ est non seulement le livrable de cette activité, ...   
