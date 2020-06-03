@@ -5,9 +5,9 @@ Il s'agit de définir la finalité de l'application, son "Pourquoi ?", sa raison
 ... autrement dit de préciser "à qui" et "à quoi" elle va servir et pour quel bénéfice.
 
 ### Pourquoi le faire ?
-Par ce que pour spécifier une application informatique, il est nécessaire de déterminer le modèle sémantique des concepts métiers (ou modèle métier) quelle va devoir manipuler ...   
-... et que fondementalement, un modèle métier ne fait sens qu’en regard de “ce à quoi il va servir”. 
-> Pour memo : "Essentially, all models are wrong , but some are useful" - Geoges Box
+Par ce que pour spécifier une __application informatique__, il est nécessaire de déterminer le __modèle sémantique des concepts métiers (ou modèle métier)__ quelle va devoir manipuler ...   
+... et que fondementalement, un __modèle métier__ ne fait sens qu’en regard de _“ce à quoi il va servir”_. 
+> Pour memo : "Essentially, all models are __wrong__ , but some are _useful_" - Geoges Box
 
 ## Mantra : 
 Le meileur conseil pour cette activité est sans doute incarné par l'adage qui veut que :
