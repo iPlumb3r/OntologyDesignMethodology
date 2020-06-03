@@ -6,7 +6,8 @@ Il s'agit d'identifier et définir précisement les sujets qui devront être man
 
 ## Le Mantra : 
 Le meileur conseil pour cette activité est sans doute le suivant : 
-> S'attacher à recherche "vrai" __sujets__ du domaine de connaissances et non les __objets__ qui les réprésentent !
+> S'attacher à capturer les "vrais" __sujets__ du domaine de connaissances ...     
+... et non les __objets__ qui les réprésentent !
 
 ## Le Livrable
 Le __Conceptionary__ est non seulement le livrable de cette activité, ...   
