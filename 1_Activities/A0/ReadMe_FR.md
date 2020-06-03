@@ -1,5 +1,11 @@
 # Activité #A0 : Définir la finalité de l’application
 
+## L'Activité Métier
+Il s'agit de définir la finalité de l'application, autrement dit "à qui" et "à quoi" elle va servir et pour quel bénéfice.
+
+## Le Mantra : 
+La meileur pour cette activité est sans doute incarné par l'adage qui veut que :
+> "il n'y pas de vent favorable pour le marin qui ne sait ou il va !"
 
 ## Le Livrable
 La méthodologie utilisé consiste à contruire la __"carte des motivations__" qui est constituée par 3 types d'éléments qui pris dans leur ensemble permettent de se faire une bonne image des tenants et aboutissants d'un projet ...
@@ -27,7 +33,4 @@ Les __initiatives métiers__ sont les principes d'actions que l'on va mettre en 
 ![SemanticModel](https://github.com/iPlumb3r/BizApp-Spec-Methodo/blob/CTZNMuv/_Images/MotivationMap_SM.png)
 
 ## Illustration "Analogique"
-La meileure analogie est sans doute incarné par l'adage qui veut que :
-> "il n'y pas de vent favorable pour le marin qui ne sait ou il va !"
-
 ![MotivationMap](https://github.com/iPlumb3r/BizApp-Spec-Methodo/blob/CTZNMuv/_Images/MotivationMap.png)
