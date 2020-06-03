@@ -23,7 +23,7 @@ Les __initiatives métiers__ sont les principes d'actions que l'on va mettre en 
 * contrer un (ou plusieurs) __facteur(s) influaçant(s)__ 
 
 
-Modèle Sméntique
+Modèle Sémantique
 ==
 ![SemanticModel](https://github.com/iPlumb3r/BizApp-Spec-Methodo/blob/CTZNMuv/_Images/MotivationMap_SM.png)
 
