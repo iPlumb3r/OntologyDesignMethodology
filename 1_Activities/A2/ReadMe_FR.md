@@ -8,10 +8,11 @@ Le meileur conseil pour cette activité est sans doute le suivant :
 > Définir - autant que possible - les activités en terme de __finalité__ (et non de __moyen__)
 
 ## Le Livrable
-Le __Conceptionary__ est non seulement le livrable de cette actibité, mais c'est également LE livrable de cette approche méthodologique car il constitue un "pivot" de la démarche.
+Le __Conceptionary__ est non seulement le livrable de cette activité, ...   
+... Mais c'est également LE livrable de cette approche méthodologique car il constitue un "pivot" de la démarche !   
  
 ## Les Notions Clefs
-Les notions clefs pour cette activité sont résumé dans le tableau ci-après :
+Les notions clefs pour cette activité sont résumées dans le tableau ci-après :
 
 <table>
     <thead>
