@@ -16,7 +16,7 @@ Tableau :
     </thead>
     <tbody>
         <tr>
-            <td>A0</td>
+            <td><a href="https://github.com/iPlumb3r/BizApp-Spec-Methodo/blob/CTZNMuv/1_Activities/A0/ReadMe_FR.md">A0</a></td>
             <td>Définir la finalité de l’application</td>
             <td>Un modèle métier ne fait sens qu’en regard de “ce à quoi il va servir”. Rq : All models are wrong , but some are useful (G. Box)</td>
             <td>En identifiant les finalités devant être atteintes par le modèle métier, les facteurs influançants et les inititives qui en découlent (=> Carte des motivations)</td>
