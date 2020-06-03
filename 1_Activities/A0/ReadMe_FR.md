@@ -16,7 +16,7 @@ Ces types d'éléments (i.e. Concepts Clefs) sont les suivants :
 * Les __facteurs influançants__
 * Les __initiatives métiers__ 
  
-## Les Concepts Clefs
+## Les Notions Clefs
 
 ### Finalités métiers :    
 Les __finalités métiers__ incarnent les différentes facettes de "là où" l'on veut aller ...
