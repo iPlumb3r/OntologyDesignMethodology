@@ -28,18 +28,18 @@
         </tr>
         <tr>
             <td>"Conceptionary"</td>
-            <td>A2</td>
-            <td>A3</td>
+            <td>Liste exhaustive des sujets métiers devant être manipulé par l'application.</td>
+            <td>Livrable clef jouant le rôle de "charnière" entre les activités métiers et le modèle sémantique.</td>
         </tr>
         <tr>
             <td>Modèle Sémantique des Concepts Métiers</td>
-            <td>A2</td>
-            <td>A3</td>
+            <td>Mise en relation des sujets métiers du Conceptionary</td>
+            <td></td>
         </tr>
         <tr>
             <td>Liste des Règles métiers</td>
-            <td>A2</td>
-            <td>A3</td>
+            <td>Principes contraignant et/ou controlant le modèle sémantique</td>
+            <td></td>
         </tr>
     </tbody>
 </table>
